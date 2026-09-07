@@ -11,7 +11,7 @@
 
 ### 1. Clone project
 ```
-git clone
+git clone https://github.com/tuxarith/Telegram-Pay-bot.git
 ```
 ### 2. Go to the directory
 ```
@@ -45,7 +45,7 @@ python3 main.py
 ### Установка и Запуск
 1. Скопируйте проект:
 ````bash
-git clone https://github.com/tuxarith/telegram-tracker-bot.git
+git clone https://github.com/tuxarith/Telegram-Pay-bot.git
 ````
 2. Зайдите в директорию проекта:
 ````bash
