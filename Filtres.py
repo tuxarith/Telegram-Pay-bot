@@ -10,7 +10,7 @@ from FSM import get_stars, message_for_donating
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from FSM import get_stars1
-ADMIN_ID = 8437409579
+ADMIN_ID = your_id_from_your_telegram_account
 callback_router = Router()
 
 
