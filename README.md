@@ -15,7 +15,7 @@ git clone
 ```
 ### 2. Go to the directory
 ```
-cd bemburmalda
+cd Telegram-Pay-bot
 ```
 ### 3. Create file in the project root
 ### file example_token-bot.env - this is a example for file token-bot.env!!!
@@ -49,7 +49,7 @@ git clone https://github.com/tuxarith/telegram-tracker-bot.git
 ````
 2. Зайдите в директорию проекта:
 ````bash
-cd telegram-tracker-bot
+cd Telegram-Pay-bot
 ````
 3. Установите зависимости:
 ````bash
