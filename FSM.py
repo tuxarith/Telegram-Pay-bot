@@ -4,7 +4,7 @@ from aiogram import Router
 from aiogram.types import LabeledPrice, message, Message, FSInputFile
 
 
-ADMIN_ID = 8437409579
+ADMIN_ID = 
 
 
 class get_stars(StatesGroup):
