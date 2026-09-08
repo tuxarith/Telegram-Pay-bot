@@ -4,7 +4,7 @@ from aiogram import Router
 from aiogram.types import LabeledPrice, message, Message, FSInputFile
 
 
-ADMIN_ID = 
+ADMIN_ID = your_telegram_id_from_your_Account
 
 
 class get_stars(StatesGroup):
